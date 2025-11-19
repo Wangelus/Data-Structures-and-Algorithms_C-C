@@ -9,7 +9,7 @@
   "excludeExtensionPattern": "",
   "disableRenameNotice": false,
   "IsShowCustomPath": true,
-  "PasteImageOption": "current",
+  "PasteImageOption": "tofilenameassests",
   "CustomPath": "./",
   "IsEscapeUriPath": true,
   "IsAddRelativePath": true,
