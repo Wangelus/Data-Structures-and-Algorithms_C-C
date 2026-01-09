@@ -1,10 +1,10 @@
-# 第一个程序的书写和运行
+# 一、第一个程序的书写和运行
 
 ```c++
 #include<iostream>
 using namespace std;
 
-int mani()
+int mani()//主函数部分和c语言基本相同
 {
 	cout <<"hello world"<< endl;
 	return 0;
@@ -40,3 +40,5 @@ cout << a <<endl;
 
 如果输入a=1.23，此时输出会以a的数据类型进行自动输出1
 !![image-2026192852454.png](/C++%E5%AD%A6%E4%B9%A0.assets/image-2026192852454.png)
+
+# 2.
