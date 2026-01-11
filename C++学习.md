@@ -63,7 +63,7 @@ for(int i : arr)
 ```c++
 auto a=3.14;
 auto b=100;
-auto c="x";
+auto c='x';
 ```
 这个就可以自动识别出`a`的数据类型为`double`
 
