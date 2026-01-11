@@ -61,5 +61,9 @@ for(int i : arr)
 ## auto关键字
 让编译器自动推导出变量的类型
 ```c++
-
+auto a=3.14;
+auto b=100;
+auto c="x";
 ```
+这个就可以自动识别出`a`的数据类型为`double`
+
