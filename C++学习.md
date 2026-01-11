@@ -54,6 +54,7 @@ cout << a <<endl;
 int arr[10]={1,2,3,4,5,6,7,8,9,10};
 for(int i : arr)
 {
-	cout <<
+	cout << e <<"";
 }
 ```
+这个循环和一般的c语言不同，fo
